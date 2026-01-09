@@ -64,28 +64,4 @@ DBSCAN clusters points based on two key hyperparameters:
     ```
 
 ---
-
-## 📊 Results & Visualization
-
-*Blue points represent normal data clusters, while Red points indicate detected anomalies.*
-
-| Cluster Visualization | Outlier Distribution |
-| :---: | :---: |
-| ![Cluster Plot](https://placehold.co/600x400/png?text=Place+Graph+Here) | ![Outlier Plot](https://placehold.co/600x400/png?text=Place+Distribution+Here) |
-
-*Note: Replace the placeholder images above with your actual plot outputs.*
-
----
-
-## 📂 Project Structure
-
-```text
-├── data/                  # Input dataset (CSV/Excel)
-├── notebooks/             # Jupyter Notebooks for experimentation
-├── src/                   # Source code
-│   ├── preprocessing.py   # Data cleaning & normalization
-│   ├── dbscan_model.py    # DBSCAN implementation logic
-│   └── visualize.py       # Plotting functions
-├── main.py                # Main execution script
-├── requirements.txt       # Dependencies
-└── README.md              # Project Documentation
+ 
